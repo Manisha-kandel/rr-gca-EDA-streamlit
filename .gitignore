@@ -1,0 +1,19 @@
+# virtual environments
+.venv/
+venv/
+
+# python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# streamlit
+.streamlit/
+
+# editor / OS junk
+.vscode/
+.DS_Store
+Thumbs.db
+
+# optional: notebooks checkpoints
+.ipynb_checkpoints/
